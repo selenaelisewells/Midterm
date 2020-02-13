@@ -2,7 +2,7 @@
 Viktoriia and Selena Midterm
 
 ## Description
-Week 5 in class practise - this will be all about cats
+Week 5 in class practise - this will be all about cats vs dogs
 
 ## Installation
 There is no installation process for this repo. 
